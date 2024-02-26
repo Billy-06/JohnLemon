@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{55CB8001-1917-88B7-0D46-9814C28A49DB}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/WaypointPatrol.cs">
+    <Files>
+      <File FileName="Assets/Scripts/PlayerMovement.cs" Line="44" Column="34" />
+      <File FileName="Assets/Scripts/GameEnding.cs" Line="26" Column="37" />
+      <File FileName="Assets/Scripts/Observer.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/WaypointPatrol.cs" Line="15" Column="60" />
+      <File FileName="Assets/Scripts/LightFlicker.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Outliner.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="John Lemon’s Haunted Jaunt" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="WaypointPatrol.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="aad32b75-3d68-4eb0-ab5a-3ef48f9e637a" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
